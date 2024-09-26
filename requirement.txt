@@ -1,0 +1,6 @@
+docx
+PyPDF2
+openpyxl
+pdfplumber
+requests
+pandas
