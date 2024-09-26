@@ -73,7 +73,7 @@ def extract_contacts(text):
              "content": "Extract contact information including full name, company, phone number, and email from the provided text."},
             {"role": "user", "content": text}
         ],
-        "temperature": 0.7,
+        "temperature": 0.8,
         "max_tokens": -1,
         "stream": False
     }
